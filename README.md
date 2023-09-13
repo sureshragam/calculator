@@ -1,6 +1,5 @@
 # calculator
-
-This is a simple calculator web application built using HTML, CSS, and jQuery. It allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division.
+This simple calculator web application is built using HTML, CSS, and jQuery. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Table of Contents
 
